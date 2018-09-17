@@ -7,7 +7,7 @@ public class FirstGitHubClass {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("我的第一个GitHub程序！");
+		System.out.println("我的第一个GitHub程序！   Again！");
 
 	}
 
